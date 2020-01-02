@@ -1,2 +1,8 @@
 # hussian
-#Devops tools 
+# Devops tools 
+# nginx 
+# linux
+# cd 
+# pwd 
+# find
+# awk 
