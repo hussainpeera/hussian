@@ -11,3 +11,6 @@
 # pwd 
 # find
 # awk 
+
+# docker 
+# aws
