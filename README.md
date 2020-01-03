@@ -5,3 +5,9 @@
 # maven 
 # jenkins
 
+# nginx 
+# linux
+# cd 
+# pwd 
+# find
+# awk 
